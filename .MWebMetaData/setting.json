@@ -1,0 +1,10 @@
+{
+  "name" : "article",
+  "fileExtension" : ".md",
+  "autoUploadInsertedImageKey" : "七牛云图床-http:\/\/upload-z1.qiniup.com",
+  "autoUploadInsertedImage" : true,
+  "folderType" : 10,
+  "mediaFloder" : "media",
+  "orderBy" : 0,
+  "newlinesToBR" : 0
+}
