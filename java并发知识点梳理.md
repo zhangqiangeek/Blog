@@ -4,6 +4,8 @@
    tags: java
 ---
 
+![Java并发知识图谱](http://pic.evilhex.com/2019-04-08-Java并发知识图谱.png)
+
 ### CPU多级缓存
 - EMSI
 - 乱序执行优化
