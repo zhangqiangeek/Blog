@@ -4,8 +4,6 @@
    tags: java
 ---
 
-![Java并发知识图谱](http://pic.evilhex.com/2019-04-08-Java并发知识图谱.png)
-
 ### CPU多级缓存
 - EMSI
 - 乱序执行优化
@@ -263,6 +261,7 @@ java7提供并行执行任务的框架；
 - 宁可使用同步代码块，也不使用同步的方法
 - 避免使用静态变量（一般配合final）
 
+![Java并发知识图谱](http://pic.evilhex.com/2019-04-08-Java并发知识图谱.png)
 
 ## Spring与线程安全
 
